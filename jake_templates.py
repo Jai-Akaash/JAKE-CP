@@ -33,3 +33,4 @@ class DisJointSet :
 # g.unionByRank(1,2)
 # g.unionByRank(3,4)
 # print(g.FindParent(1),g.FindParent(2),g.FindParent(5))
+# print(g.size[3])
